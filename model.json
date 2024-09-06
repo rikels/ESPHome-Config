@@ -2,7 +2,6 @@
   "type": "micro",
   "wake_word": "yo sicko",
   "author": "Kevin Ahrendt",
-  "website": "https://www.kevinahrendt.com/",
   "model": "./stream_state_internal_quant.tflite",
   "trained_languages": ["en"],
   "version": 2,
